@@ -1,0 +1,6 @@
+Name			    Position		    Office		    Age 	Start_date
+Airi_Satou		    Accountant		    Tokyo		    33	    11/28/2008
+Angelica_Ramos		Chief_Executive 	London		    47	    10/9/2009
+Ashton_Cox		    Junior_Technical	San_Francisco	66     	1/12/2009
+Bradley_Greer		Software_Engineer	London		    41	    10/13/2012
+Brenden_Wagner		Software_Engineer	San_Francisco	28	    6/7/2011
